@@ -1,72 +1,219 @@
 [
     {
         "id": 1,
-        "anime": "0-saiji Start Dash Monogatari Season 2 - Ending 1",
-        "name": "\"Beyond the Trajectory\" by Chata",
-        "video": "https://eudist.animemusicquiz.com/5u2mhk.webm",
-        "mp3": null
+        "anime": "Tetsuwan Birdy Decode - Insert Song",
+        "name": "\"Marionette no Komoriuta\" by Marie Kocho",
+        "video": null,
+        "mp3": "https://naedist.animemusicquiz.com/goknne.mp3"
     },
     {
         "id": 2,
-        "anime": "1-punkan dake Furete mo Ii yo... Share House no Himitsu Rule. - Ending 1",
-        "name": "\"Session Sadame Night\" by Dai Takanashi",
-        "video": "https://eudist.animemusicquiz.com/f23gq2.webm",
-        "mp3": "https://eudist.animemusicquiz.com/ne5vos.mp3"
+        "anime": "Orange - Insert Song",
+        "name": "\"poison smile\" by ENA & KOCHO",
+        "video": "https://naedist.animemusicquiz.com/j5e41ph41i39xnm1.webm",
+        "mp3": "https://naedist.animemusicquiz.com/09hp85.mp3"
     },
     {
         "id": 3,
-        "anime": "A-Rank Party wo Ridatsu shita Ore wa, Moto Oshiego-tachi to Meikyuu Shinbu wo Mezasu. - Ending 1",
-        "name": "\"Treasure Chest\" by Yuki Tanaka",
-        "video": "https://eudist.animemusicquiz.com/agsvoz.webm",
-        "mp3": "https://eudist.animemusicquiz.com/i3vp9q.mp3"
+        "anime": "Rokudenashi Majutsu Koushi to Akashic Records - Ending 2",
+        "name": "\"Empress\" by Marie Kocho",
+        "video": "https://naedist.animemusicquiz.com/1uif47hfmqkzzuox.webm",
+        "mp3": "https://naedist.animemusicquiz.com/v020fg.mp3"
     },
     {
         "id": 4,
-        "anime": "Akuyaku Reijou Tensei Ojisan - Ending 1",
-        "name": "\"Matsuken Samba II\" by Kazuhiko Inoue, M・A・O",
-        "video": "https://eudist.animemusicquiz.com/e8q47f.webm",
-        "mp3": "https://eudist.animemusicquiz.com/dje0hr.mp3"
+        "anime": "Mahoutsukai no Yome - Insert Song",
+        "name": "\"Kimi no Yukue\" by KOCHO",
+        "video": "https://naedist.animemusicquiz.com/ty1d1u.webm",
+        "mp3": "https://naedist.animemusicquiz.com/lfeyrx.mp3"
     },
     {
         "id": 5,
-        "anime": "Amagami-san Chi no Enmusubi - Ending 2",
-        "name": "\"Kamisama no Iu Toori!\" by ≠ME",
-        "video": "https://eudist.animemusicquiz.com/p4etz1.webm",
-        "mp3": "https://eudist.animemusicquiz.com/wz8z3p.mp3"
+        "anime": "Engimon - Opening 1",
+        "name": "\"Goriyaku Supopopoon!!\" by KOCHO",
+        "video": "https://naedist.animemusicquiz.com/4zye4m.webm",
+        "mp3": "https://naedist.animemusicquiz.com/d5gj5e.mp3"
     },
     {
         "id": 6,
-        "anime": "Ameku Takao no Suiri Karte - Ending 1",
-        "name": "\"will be fine\" by Gospellers feat. Anly",
-        "video": "https://eudist.animemusicquiz.com/0spf2m.webm",
-        "mp3": "https://eudist.animemusicquiz.com/iagxs7.mp3"
+        "anime": "Goblin Slayer - Insert Song",
+        "name": "\"Koonigoroshi Monogatari\" by MAYUKO & Marie Kocho",
+        "video": "https://naedist.animemusicquiz.com/df3d2del2hvgh9dc.webm",
+        "mp3": "https://naedist.animemusicquiz.com/7pyfos.mp3"
     },
     {
         "id": 7,
-        "anime": "Ao no Exorcist: Yosuga-hen - Ending 1",
-        "name": "\"Overlap\" by Shiyui",
-        "video": "https://eudist.animemusicquiz.com/3z1d8i.webm",
-        "mp3": "https://eudist.animemusicquiz.com/162vdv.mp3"
+        "anime": "Kabukichou Sherlock - Insert Song",
+        "name": "\"Cherry Pink☆Dream Dreamer\" by Marie Kocho",
+        "video": "https://naedist.animemusicquiz.com/2ykdsxgqj07w0148.webm",
+        "mp3": "https://naedist.animemusicquiz.com/z3cv16.mp3"
     },
     {
         "id": 8,
-        "anime": "Ao no Hako - Ending 2",
-        "name": "\"Contrast\" by TOMOO",
-        "video": "https://eudist.animemusicquiz.com/qmcqk3.webm",
-        "mp3": "https://eudist.animemusicquiz.com/l2sgqo.mp3"
+        "anime": "Fushigi Dagashiya Zenitendou - Ending 1",
+        "name": "\"Ha Nya〇Manten, Zenitendou.\" by KOCHO",
+        "video": "https://naedist.animemusicquiz.com/x9iko8.webm",
+        "mp3": "https://naedist.animemusicquiz.com/mww853.mp3"
     },
     {
         "id": 9,
-        "anime": "Ao no Miburo - Ending 2",
-        "name": "\"Fragment\" by osage",
-        "video": "https://eudist.animemusicquiz.com/8b8iva.webm",
-        "mp3": "https://eudist.animemusicquiz.com/0yt4lm.mp3"
+        "anime": "Eiga Crayon Shin-chan: Gekitotsu! Rakuga Kingdom to Hobo Yonin no Yuusha - Insert Song",
+        "name": "\"Yorokobi no Uta Oo King!\" by Marie Kocho & Kaon Kokudo",
+        "video": "https://naedist.animemusicquiz.com/on7vot.webm",
+        "mp3": "https://naedist.animemusicquiz.com/3zrih5.mp3"
     },
     {
         "id": 10,
-        "anime": "Arafou Otoko no Isekai Tsuuhan - Ending 1",
-        "name": "\"Aicraft\" by Kiminone",
-        "video": "https://eudist.animemusicquiz.com/ohlrpc.webm",
-        "mp3": "https://eudist.animemusicquiz.com/74jbjn.mp3"
+        "anime": "Mahouka Koukou no Yuutousei - Insert Song",
+        "name": "\"Small Rendezvous\" by KOCHO",
+        "video": "https://naedist.animemusicquiz.com/7bc7lh.webm",
+        "mp3": "https://naedist.animemusicquiz.com/vh6fge.mp3"
+    },
+    {
+        "id": 11,
+        "anime": "Mahouka Koukou no Yuutousei - Insert Song",
+        "name": "\"Sucre Girl\" by KOCHO",
+        "video": "https://naedist.animemusicquiz.com/b8ufij.webm",
+        "mp3": "https://naedist.animemusicquiz.com/wxgi6v.mp3"
+    },
+    {
+        "id": 12,
+        "anime": "Build-Divide: #000000 (Code Black) - Opening 1",
+        "name": "\"Hoshi o Tsukamu Hito\" by Mica Bando & KOCHO",
+        "video": "https://naedist.animemusicquiz.com/51xayl.webm",
+        "mp3": "https://naedist.animemusicquiz.com/yb4rdi.mp3"
+    },
+    {
+        "id": 13,
+        "anime": "Black★★Rock Shooter: Dawn Fall - Insert Song",
+        "name": "\"CHARLOTTE\" by KOCHO",
+        "video": "https://naedist.animemusicquiz.com/4sxbzg.webm",
+        "mp3": "https://naedist.animemusicquiz.com/m1oabk.mp3"
+    },
+    {
+        "id": 14,
+        "anime": "Black★★Rock Shooter: Dawn Fall - Insert Song",
+        "name": "\"The End of Humanity\" by KOCHO",
+        "video": "https://naedist.animemusicquiz.com/uq14x7.webm",
+        "mp3": "https://naedist.animemusicquiz.com/ivpouf.mp3"
+    },
+    {
+        "id": 15,
+        "anime": "Kotarou wa Hitorigurashi - Opening 1",
+        "name": "\"Hoshi no Runway\" by KOCHO",
+        "video": "https://naedist.animemusicquiz.com/im2r7z.webm",
+        "mp3": "https://naedist.animemusicquiz.com/f6w92p.mp3"
+    },
+    {
+        "id": 16,
+        "anime": "Kono Subarashii Sekai ni Bakuen o! - Insert Song",
+        "name": "\"Akogare no Mahou\" by KOCHO",
+        "video": "https://naedist.animemusicquiz.com/bid22t.webm",
+        "mp3": "https://naedist.animemusicquiz.com/8glrxj.mp3"
+    },
+    {
+        "id": 17,
+        "anime": "Kono Subarashii Sekai ni Bakuen o! - Insert Song",
+        "name": "\"Akai Bakuen no Homura\" by KOCHO",
+        "video": "https://naedist.animemusicquiz.com/q5wdub.webm",
+        "mp3": "https://naedist.animemusicquiz.com/gj5ydg.mp3"
+    },
+    {
+        "id": 18,
+        "anime": "Yuusha-kei ni Shosu: Choubatsu Yuusha 9004-tai Keimu Kiroku - Opening 3",
+        "name": "\"Kouwan Toshi Ioff\" by KOCHO",
+        "video": "https://naedist.animemusicquiz.com/nyry8fqz0msmcmu9.webm",
+        "mp3": "https://naedist.animemusicquiz.com/bybkh8.mp3"
+    },
+    {
+        "id": 19,
+        "anime": "Yuusha-kei ni Shosu: Choubatsu Yuusha 9004-tai Keimu Kiroku - Opening 4",
+        "name": "\"Sodrick Gaiku\" by KOCHO",
+        "video": "https://naedist.animemusicquiz.com/q15mq3mw38lvps16.webm",
+        "mp3": "https://naedist.animemusicquiz.com/k7wnjj.mp3"
+    },
+    {
+        "id": 20,
+        "anime": "Yuusha-kei ni Shosu: Choubatsu Yuusha 9004-tai Keimu Kiroku - Insert Song",
+        "name": "\"\"Megami\"\" by EUREKA REPUBLIC & KOCHO",
+        "video": "https://naedist.animemusicquiz.com/r81qbeibchvp54s4.webm",
+        "mp3": "https://naedist.animemusicquiz.com/zdvcz2.mp3"
+    },
+    {
+        "id": 21,
+        "anime": "Yuusha-kei ni Shosu: Choubatsu Yuusha 9004-tai Keimu Kiroku - Insert Song",
+        "name": "\"Zewan=Gan Koudou\" by EUREKA REPUBLIC & KOCHO",
+        "video": "https://naedist.animemusicquiz.com/b1dozccmuz8hkt7c.webm",
+        "mp3": "https://naedist.animemusicquiz.com/q9jmlf.mp3"
+    },
+    {
+        "id": 22,
+        "anime": "Yuusha-kei ni Shosu: Choubatsu Yuusha 9004-tai Keimu Kiroku - Insert Song",
+        "name": "\"Seiin\" by EUREKA REPUBLIC & KOCHO",
+        "video": "https://naedist.animemusicquiz.com/4dpnns3m877r90xi.webm",
+        "mp3": "https://naedist.animemusicquiz.com/uqh1vg.mp3"
+    },
+    {
+        "id": 23,
+        "anime": "Yuusha-kei ni Shosu: Choubatsu Yuusha 9004-tai Keimu Kiroku - Insert Song",
+        "name": "\"Oukoku Saiban\" by EUREKA REPUBLIC, KOCHO, Utabito Zanmai Samady",
+        "video": "https://naedist.animemusicquiz.com/tbvv1b2goswdbshb.webm",
+        "mp3": "https://naedist.animemusicquiz.com/laovmg.mp3"
+    },
+    {
+        "id": 24,
+        "anime": "Kamitsubaki-shi Kensetsuchuu. - Insert Song",
+        "name": "\"Maxwell\" by KOCHO, Mai Nishida, Shiori Hongo, Maki Takimoto, Masachika Watanabe, Paolo Andrea Di Pietro",
+        "video": "https://naedist.animemusicquiz.com/h2u61viq9gj043f8.webm",
+        "mp3": "https://naedist.animemusicquiz.com/8m3dta.mp3"
+    },
+    {
+        "id": 25,
+        "anime": "Übel Blatt - Insert Song",
+        "name": "\"Black Wing -Koinzell-\" by alico & KOCHO",
+        "video": "https://naedist.animemusicquiz.com/o80m6b.webm",
+        "mp3": "https://naedist.animemusicquiz.com/eqxxxi.mp3"
+    },
+    {
+        "id": 26,
+        "anime": "Muchuu sa, Kimi ni. - Insert Song",
+        "name": "\"Medaka's dream\" by KOCHO",
+        "video": "https://naedist.animemusicquiz.com/z9ja9upickjz51rn.webm",
+        "mp3": "https://naedist.animemusicquiz.com/9umax6.mp3"
+    },
+    {
+        "id": 27,
+        "anime": "Gnosia - Insert Song",
+        "name": "\"ASTER (Anime Ver.)\" by KOCHO",
+        "video": "https://naedist.animemusicquiz.com/49hol8oca8pr2tn7.webm",
+        "mp3": "https://naedist.animemusicquiz.com/8xapw4.mp3"
+    },
+    {
+        "id": 28,
+        "anime": "Gnosia - Insert Song",
+        "name": "\"E an diz woarldo\" by KOCHO",
+        "video": "https://naedist.animemusicquiz.com/nk2e7412vrwd2qnf.webm",
+        "mp3": "https://naedist.animemusicquiz.com/v1szch.mp3"
+    },
+    {
+        "id": 29,
+        "anime": "Towa no Yuugure - Insert Song",
+        "name": "\"Tokubetsu na Chi\" by Marie Kocho",
+        "video": "https://naedist.animemusicquiz.com/xu8zt5.webm",
+        "mp3": "https://naedist.animemusicquiz.com/criv0k.mp3"
+    },
+    {
+        "id": 30,
+        "anime": "Hoshi no Kodomo to Hajimari no Ki - Ending 1",
+        "name": "\"Hoshi no Kodomo no Komoriuta\" by KOCHO",
+        "video": "https://naedist.animemusicquiz.com/qtp1tejq1bdxblq8.webm",
+        "mp3": "https://naedist.animemusicquiz.com/zr6tti.mp3"
+    },
+    {
+        "id": 31,
+        "anime": "Towa no Yuugure - Insert Song",
+        "name": "\"Towa no Yuugure ~Kokuhaku~\" by Marie Kocho",
+        "video": "https://naedist.animemusicquiz.com/zrufj0.webm",
+        "mp3": "https://naedist.animemusicquiz.com/88q5i4.mp3"
     }
 ]
